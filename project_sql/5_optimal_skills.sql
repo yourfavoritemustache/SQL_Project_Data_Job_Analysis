@@ -62,6 +62,6 @@ LIMIT 15
 --     salary_year_avg IS NOT NULL
 -- GROUP BY skills_dim.skill_id
 -- ORDER BY 
---     demand_count DESC,
---     avg_salary DESC
+--     avg_salary DESC,
+--     demand_count DESC
 -- LIMIT 15
